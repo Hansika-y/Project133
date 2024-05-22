@@ -1,0 +1,11 @@
+body
+{
+    background-position: center;
+    background-size: fill;
+}
+
+button
+{
+    width: 15%;
+    border-radius: 10%;
+}
